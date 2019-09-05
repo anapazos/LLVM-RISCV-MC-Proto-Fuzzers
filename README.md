@@ -5,6 +5,7 @@ https://reviews.llvm.org/D51144 Implemented Protobuf fuzzer for LLVM RISC-V MC A
 
 https://reviews.llvm.org/D51710 Implemented Protobuf fuzzer for LLVM RISC-V MC Disassembler
 
+https://reviews.llvm.org/D55644 Emitting MCInstruction from Protocol Buffer Message
 
 Make sure you have the latest installation of libprotobuf (and libprotobuf-mutator).
 
